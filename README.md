@@ -3,7 +3,7 @@ Train tracker for Metro Trains Melbourne. Put any valid car number currently tra
 
 # Setup
 ## Linux & MacOS
-`pip3 install requests pprint`
+`pip3 install requests pprint`\n
 `python3 main.py`
 ## Windows
 `pip install requests pprint`
